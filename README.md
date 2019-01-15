@@ -8,7 +8,7 @@ Android:
 2. BT Terminal: https://play.google.com/store/apps/details?id=appinventor.ai_samakbrothers.BT_Terminal
 
 PC:
-1. DriveBot Controller:
+1. DriveBot Controller GUI (present in this repository)
 2. RealTerm (or similar Serial Terminal application)
 
 YouTube Links:
